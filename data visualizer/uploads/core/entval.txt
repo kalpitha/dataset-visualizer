@@ -1,0 +1,11 @@
+places,location,region,venue,venues
+names,person,people
+organisation, company, firm, institution, corporation, establishment, agency, association, confederation
+facility, buildings, airports, highways, bridges
+art, books, songs. creative content
+language, dialect
+event, hurricane, battles, wars, sport events
+money, cash, wealth, riches, fortune, currency, legal tender
+date
+time
+quantity

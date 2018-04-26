@@ -1,0 +1,100 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block content %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <style>
+        * {
+            margin:0;
+            padding:0;
+        }
+        body,p
+        {
+            color: black;
+            font-family: courier;
+            font-size: 125%;
+        }
+        #text 
+        {
+          padding: 20px 20px 20px 20px;
+          font-family: courier;
+          font-size: 125%;
+        }
+        #analyser
+        {
+            padding-bottom:10px;
+            margin-top:10px; 
+            margin-right: 100px;
+        }
+        #pass
+        {
+            background-color: #019875;
+            color:white;
+            border: 0px;
+        }
+        #pass:hover
+        {
+            background-color: #1E824C;
+            color:white;
+            border: 0px;
+        }
+  </style>
+  <title>Data Display</title>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="{% static 'style.css' %}"> -->
+    <link href="https://fonts.googleapis.com/css?family=Muli:300" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+  <script src ="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"></script>
+</head>
+
+    <body>
+      
+        <form method ="post">
+                
+                {% csrf_token %}
+                <div class="container-fluid" style="background-color: #D2D7D3;">
+                  <p id="text" name="text">{{text|linebreaks}}</p>
+                        <br>
+                        <br>
+                        <br>
+                  <div class="col col-sm-4 offset-md-4" id="analyser" style="padding:20px 20px 20px 20px; background-color: #D2D7D3;">
+                        
+                        <button id="pass" class= "btn btn-secondary btn-lg btn-block" name="buhton" type="submit" value="okay">Query</button>
+                </div> 
+              </div>    
+        </form> 
+        
+                
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+              integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+              crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+      
+      
+  </body>
+
+    
+                
+
+</html>
+
+
+
+
+
+
+    
+
+{% endblock %}

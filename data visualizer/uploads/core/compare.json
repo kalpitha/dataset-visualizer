@@ -1,0 +1,10 @@
+{
+	"PERSON" : ["names", "name", "person", "people", "someone", "individual"],
+	"GPE" : ["location", "locations", "places", "area", "place", "address", "addresses", "geolocation", "city", "town", "locality", "country", "destinations", "landmarks"],
+	"LOC" : ["location", "locations", "places", "area", "place", "address", "addresses", "geolocation", "city", "town", "locality", "country", "destinations", "landmarks"],
+	"QUANTITY" : ["quantity", "amount", "Pricing", "costs", "quantities", "qty"],
+	"EVENT" : ["event", "events", "moment", "tournament"],
+	"TIME" : ["time", "date", "day", "days", "times"],
+	"DATE" : ["time", "date", "day", "days", "times"],
+	"MONEY" : ["money", "cash", "wealth", "riches", "fortune", "currency", "legal tender"]
+} 

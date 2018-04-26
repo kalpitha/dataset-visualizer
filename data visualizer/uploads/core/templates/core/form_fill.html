@@ -1,0 +1,169 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block content %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+    <link href="https://fonts.googleapis.com/css?family=Muli:300" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
+  <script src ="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.min.js"></script>
+  <style>
+        * {
+            margin:0;
+            padding:0;
+        }
+        body
+        {
+            background: white;
+            color: white;
+            font-family: courier;
+            font-size: 125%;
+        }
+        #pass
+        {
+            background-color: #019875;
+            color:white;
+            border: 0px;
+        }
+        #pass:hover
+        {
+            background-color: #1E824C;
+            color:white;
+            border: 0px;
+        }
+        input {
+          height:0px;
+        }
+  </style>
+</head>
+
+<script>
+        function vis(){
+          alert('happy day');
+
+        }
+
+
+        function visualize() {
+            // alert("you are in visualize");
+            var text = document.getElementById('tval').value;
+            // alert(text);
+            var val = document.getElementById('vval').value;
+            // alert(val);
+            var colors = ["#E08283","#87D37C","#6BB9F0","#FABE58","#AEA8D3","#E26A6A","#90C695","#03C9A9","#DCC6E0"];
+            // var picolors = colors.slice(0,text.length)
+            var gtype = document.getElementById('gtype').value;
+            var text = text.split(",");
+            var val = val.split(",");
+            
+            var ctx = document.getElementById("myChart");
+
+            if (gtype == 'bar'){
+
+            var l = [];
+            for (i=0; i < text.length; i++) {
+                data = [0]
+                data[0] = val[i]
+                var b = {
+                    data: data,
+                    label: text[i],
+                    backgroundColor: colors[i],
+                    fill: false 
+                };
+                var l = l.concat(b);
+
+            }
+        
+
+
+
+        var myChart = new Chart(ctx, {
+          // type: 'pie', 
+          // type: 'bar',
+          type: 'bar',
+          data: {
+            datasets: l
+          }
+        });
+      }
+
+        if (gtype == 'pie') {
+          var picolors = colors.slice(0,text.length)
+          var myChart = new Chart(ctx, {
+          // type: 'pie', 
+          // type: 'bar',
+          type: 'pie',
+          data: {
+            labels: text,
+            datasets: [{
+            label: "Named Tags",
+            backgroundColor: picolors,
+            data: val
+          }]
+        },
+        options: {
+      title: {
+        display: true,
+        text: 'Datapoints in dataset'
+      }
+    }
+      });
+}
+}
+
+    </script>
+
+    <body onload="visualize()">
+      
+      <canvas id="myChart" width="1600" height="900"></canvas>
+      <div class="container-fluid">
+                  <div class="col col-sm-4 offset-md-4" id="analyser" style="padding:20px 20px 20px 20px;">
+        <form method ="post">
+                
+                {% csrf_token %}
+                            <input type = "text" class ="form-control"  style="height:0px; color:white; border: 0px;" id="tval" name="fname" value = "{{textval}}">
+                            <input type="text" class ="form-control"  style="height:0px; color:white; border: 0px;" id="vval" name="vval" value="{{valval}}">
+                            <input type="text" class ="form-control" style="height:0px; color:white; border: 0px;" id="gtype" name="gtype" value="{{gvalue}}">
+                        
+                        <button id="pass" class= "btn btn-secondary btn-lg btn-block" name="buhton" type="submit" value="okay">Query</button>
+                    
+              
+                
+            </form> 
+        </div>
+      </div>
+                
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"
+              integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+              crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+      
+      
+  </body>
+
+    
+                
+
+</html>
+
+
+
+
+
+
+    
+
+{% endblock %}

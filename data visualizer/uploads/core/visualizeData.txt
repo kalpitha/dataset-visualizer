@@ -1,0 +1,78 @@
+Visualize the dataset
+Visualize the [entval:entval](places), [entval:entval](people) and [entval:entval](location) in the dataset
+Visualize the [entval:entval](people), [entval:entval](money) and [entval:entval](work of art)
+Visualize the [entval:entval](money), [entval:entval](time) and [entval:entval](work of art)
+Visualize the [entval:entval](event), [entval:entval](people) and [entval:entval](date)
+Graph the dataset
+Graph the [entval:entval](places), [entval:entval](people) and [entval:entval](location) in the dataset
+Graph the [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) in the dataset
+Graph the [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) in the dataset
+Graph the [entval:entval](event), [entval:entval](people) and [entval:entval](date) in the dataset
+Visualize the dataset with respect to [entval:entval](places), [entval:entval](people) and [entval:entval](location)
+Visualize the dataset with respect to [entval:entval](people), [entval:entval](money) and [entval:entval](work of art)
+Visualize the dataset with respect to [entval:entval](money), [entval:entval](time) and [entval:entval](work of art)
+Visualize the dataset with respect to [entval:entval](event), [entval:entval](people) and [entval:entval](date)
+Graph the dataset with respect to the [entval:entval](places), [entval:entval](people) and [entval:entval](location)
+Graph the dataset with respect to the [entval:entval](people), [entval:entval](money) and [entval:entval](work of art)
+Graph the dataset with respect to the [entval:entval](money), [entval:entval](time) and [entval:entval](work of art)
+Graph the dataset with respect to the [entval:entval](event), [entval:entval](people) and [entval:entval](date)
+Graph the dataset with respect to [entval:entval](places), [entval:entval](people) and [entval:entval](location)
+Graph the dataset with respect to [entval:entval](people), [entval:entval](money) and [entval:entval](work of art)
+Graph the dataset with respect to [entval:entval](money), [entval:entval](time) and [entval:entval](work of art)
+Graph the dataset with respect to [entval:entval](event), [entval:entval](people) and [entval:entval](date)
+Show me a [gtype:gtype](pi graph) of all datapoints
+Show me a [gtype:gtype](bar graph) of all datapoints
+
+Visualize the dataset as a [gtype:gtype](pi graph)
+Visualize the [entval:entval](places), [entval:entval](people) and [entval:entval](location) in the dataset a [gtype:gtype](pi graph)
+Visualize the [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) as a [gtype:gtype](pi graph)
+Visualize the [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) as a [gtype:gtype](pi graph)
+Visualize the [entval:entval](event), [entval:entval](people) and [entval:entval](date) as a [gtype:gtype](pi graph)
+Graph the dataset as a [gtype:gtype](pi graph)
+Graph the [entval:entval](places), [entval:entval](people) and [entval:entval](location) in the dataset as a [gtype:gtype](pi graph)
+Graph the [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) in the dataset as a [gtype:gtype](pi graph)
+Graph the [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) in the dataset as a [gtype:gtype](pi graph)
+Graph the [entval:entval](event), [entval:entval](people) and [entval:entval](date) in the dataset as a [gtype:gtype](pi graph)
+Visualize the dataset with respect to [entval:entval](places), [entval:entval](people) and [entval:entval](location) as a [gtype:gtype](pi graph)
+Visualize the dataset with respect to [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) as a [gtype:gtype](pi graph)
+Visualize the dataset with respect to [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) as a [gtype:gtype](pi graph)
+Visualize the dataset with respect to [entval:entval](event), [entval:entval](people) and [entval:entval](date) as a [gtype:gtype](pi graph)
+Graph the dataset with respect to the [entval:entval](places), [entval:entval](people) and [entval:entval](location) as a [gtype:gtype](pi graph)
+Graph the dataset with respect to the [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) as a [gtype:gtype](pi graph)
+Graph the dataset with respect to the [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) as a [gtype:gtype](pi graph)
+Graph the dataset with respect to the [entval:entval](event), [entval:entval](people) and [entval:entval](date) as a [gtype:gtype](pi graph)
+Graph the dataset with respect to [entval:entval](places), [entval:entval](people) and [entval:entval](location) as a [gtype:gtype](pi graph)
+Graph the dataset with respect to [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) as a [gtype:gtype](pi graph)
+Graph the dataset with respect to [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) as a [gtype:gtype](pi graph)
+Graph the dataset with respect to [entval:entval](event), [entval:entval](people) and [entval:entval](date) as a [gtype:gtype](pi graph)
+
+Visualize the dataset as a [gtype:gtype](bar graph)
+Visualize the [entval:entval](places), [entval:entval](people) and [entval:entval](location) in the dataset a [gtype:gtype](bar graph)
+Visualize the [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) as a [gtype:gtype](bar graph)
+Visualize the [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) as a [gtype:gtype](bar graph)
+Visualize the [entval:entval](event), [entval:entval](people) and [entval:entval](date) as a [gtype:gtype](bar graph)
+Graph the dataset as a [gtype:gtype](bar graph)
+Graph the [entval:entval](places), [entval:entval](people) and [entval:entval](location) in the dataset as a [gtype:gtype](bar graph)
+Graph the [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) in the dataset as a [gtype:gtype](bar graph)
+Graph the [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) in the dataset as a [gtype:gtype](bar graph)
+Graph the [entval:entval](event), [entval:entval](people) and [entval:entval](date) in the dataset as a [gtype:gtype](bar graph)
+Visualize the dataset with respect to [entval:entval](places), [entval:entval](people) and [entval:entval](location) as a [gtype:gtype](bar graph)
+Visualize the dataset with respect to [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) as a [gtype:gtype](bar graph)
+Visualize the dataset with respect to [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) as a [gtype:gtype](bar graph)
+Visualize the dataset with respect to [entval:entval](event), [entval:entval](people) and [entval:entval](date) as a [gtype:gtype](bar graph)
+Graph the dataset with respect to the [entval:entval](places), [entval:entval](people) and [entval:entval](location) as a [gtype:gtype](bar graph)
+Graph the dataset with respect to the [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) as a [gtype:gtype](bar graph)
+Graph the dataset with respect to the [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) as a [gtype:gtype](bar graph)
+Graph the dataset with respect to the [entval:entval](event), [entval:entval](people) and [entval:entval](date) as a [gtype:gtype](bar graph)
+Graph the dataset with respect to [entval:entval](places), [entval:entval](people) and [entval:entval](location) as a [gtype:gtype](bar graph)
+Graph the dataset with respect to [entval:entval](people), [entval:entval](money) and [entval:entval](work of art) as a [gtype:gtype](bar graph)
+Graph the dataset with respect to [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) as a [gtype:gtype](bar graph)
+Graph the dataset with respect to [entval:entval](event), [entval:entval](people) and [entval:entval](date) as a [gtype:gtype](bar graph)
+Plot the datapoints as a [gtype:gtype](bar graph)
+Plot the datapoints as a [gtype:gtype](pi graph)
+Plot datapoints with [entval:entval](money), [entval:entval](time) and [entval:entval](work of art) as a [gtype:gtype](bar graph)
+Plot datapoints with [entval:entval](places), [entval:entval](people) and [entval:entval](location) in the dataset as a [gtype:gtype](pi graph)
+
+
+ 
+

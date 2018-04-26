@@ -1,0 +1,74 @@
+display [entval: entval](names) in dataset
+display [entval: entval](places) in dataset
+display [entval: entval](names)
+display [entval: entval](places)
+Show [entval: entval](names)
+Show [entval: entval](places)
+give [entval: entval](names)
+give [entval: entval](places)
+display [entval: entval](organisation) in dataset
+display [entval: entval](organisation)
+Show [entval: entval](organisation)
+give [entval: entval](organisation)
+display [entval: entval](time) in dataset
+display [entval: entval](time)
+Show [entval: entval](time)
+give [entval: entval](time)
+display [entval: entval](date) in dataset
+display [entval: entval](date)
+Show  [entval: entval](date)
+give [entval: entval](date)
+display [entval: entval](money) in dataset
+display [entval: entval](money)
+Show [entval: entval](money)
+give [entval: entval](money)
+display [entval: entval](product) in dataset
+display [entval: entval](product)
+Show [entval: entval](product)
+give [entval: entval](product)
+Show me all [entval:entval](names)  
+
+display [entval: entval](names) [entval: entval](money) [entval: entval](places) in the dataset
+display [entval: entval](date) [entval: entval](event) [entval: entval](time) in dataset
+display [entval: entval](names) [entval: entval](organisation) [entval: entval](art)
+display all [entval: entval](names) [entval: entval](money) [entval: entval](places) in the dataset
+display all [entval: entval](date) [entval: entval](event) [entval: entval](time) in dataset
+display all [entval: entval](people)
+
+Show [entval: entval](event) [entval: entval](art) [entval: entval](company) [entval: entval](time) in the dataset
+Show [entval: entval](organisation) [entval: entval](date) [entval: entval](time) in dataset
+Show [entval: entval](organisation) [entval: entval](place) [entval: entval](time)
+Show all [entval: entval](event) [entval: entval](company) [entval: entval](people) in the dataset
+Show all [entval: entval](people) [entval: entval](event) [entval: entval](time) in dataset
+Show all [entval: entval](date) [entval: entval](places) [entval: entval](organisation)
+
+Show me [entval: entval](date) [entval: entval](event) [entval: entval](time) in the dataset
+Show me [entval: entval](names) in dataset
+Show me [entval: entval](names)
+Show me all [entval: entval](names) in the dataset
+Show me all [entval: entval](names) in dataset
+Show me all [entval: entval](names)
+
+Give me [entval: entval](date) [entval: entval](event) [entval: entval](time) in the dataset
+Give me [entval: entval](people) [entval: entval](event) [entval: entval](time) in dataset
+Give me [entval: entval](names)
+Give me all [entval: entval](names) in the dataset
+Give me all [entval: entval](names) in dataset
+Give me all [entval: entval](date) [entval: entval](places) [entval: entval](organisation)
+
+Give [entval: entval](date) [entval: entval](event) [entval: entval](time) in the dataset
+Give [entval: entval](people) [entval: entval](event) [entval: entval](time) in dataset
+Give [entval: entval](people) [entval: entval](event) [entval: entval](time)
+Give all [entval: entval](names) in the dataset
+Give all [entval: entval](date) [entval: entval](places) [entval: entval](organisation) in dataset
+Give all [entval: entval](names)
+
+Can i see the [entval: entval](date) [entval: entval](event) [entval: entval](time) in the dataset
+Can i see [entval: entval](date) [entval: entval](event) [entval: entval](time) in the dataset
+Can i see all the [entval: entval](date) [entval: entval](event) [entval: entval](time)
+I would like to see all the [entval: entval](date) [entval: entval](event) [entval: entval](time) in the dataset
+I would like to see the [entval: entval](date) [entval: entval](event) [entval: entval](time) in the dataset
+I would like to see all the [entval: entval](date) [entval: entval](event) [entval: entval](time)
+I would like to see the [entval: entval](date) [entval: entval](event) [entval: entval](time) in the dataset
+
+

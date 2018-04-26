@@ -1,0 +1,11 @@
+What is the [numCount:numCount](total) number of datapoints in the dataset?
+give me the [numCount:numCount](total) number of datapoints in the dataset.
+What is the [numCount:numCount](total) number of datapoints with [entval:entval](names)
+How many datapoints have [entval:entval](places) and [entval:entval](names)
+How many datapoints have [entval:entval](money) and [entval:entval](date)
+How many datapoints have [entval:entval](no places)
+How many datapoints have [entval:entval](neither places) [entval:entval](nor events)
+
+
+
+

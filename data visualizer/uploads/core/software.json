@@ -1,0 +1,134 @@
+{
+  "displayData" : {
+    "display" : {
+      "names" : false,
+      "places" : false,
+      "money" : false,
+      "time" : false,
+      "quantity" : false,
+      "date" : false,
+      "event" : false,
+      "organisation" : false
+    },
+    "action" : "",
+    "negativity" : false,
+    "n_items" : -1
+  },
+  "displayExcept" : {
+    "display" : {
+      "names" : false,
+      "places" : false,
+      "money" : false,
+      "time" : false,
+      "quantity" : false,
+      "date" : false,
+      "event" : false,
+      "organisation" : false
+    },
+    "action" : "",
+    "negativity" : true,
+    "n_items" : -1
+  },
+  "displayNumber" : {
+    "display" : {
+      "names" : false,
+      "places" : false,
+      "money" : false,
+      "time" : false,
+      "quantity" : false,
+      "date" : false,
+      "event" : false,
+      "organisation" : false
+    },
+    "action" : "",
+    "values" : {
+      "names" : 0,
+      "places" : 0,
+      "money" : 0,
+      "time" : 0,
+      "quantity" : 0,
+      "date" : 0,
+      "event" : 0,
+      "organisation" : 0
+    },
+    "negativity" : false,
+    "n_items" : -1
+  },
+  "displayNumberData" : {
+    "display" : {
+      "names" : false,
+      "places" : false,
+      "money" : false,
+      "time" : false,
+      "quantity" : false,
+      "date" : false,
+      "event" : false,
+      "organisation" : false
+    },
+    "action" : "",
+    "values" : {
+      "names" : 0,
+      "places" : 0,
+      "money" : 0,
+      "time" : 0,
+      "quantity" : 0,
+      "date" : 0,
+      "event" : 0,
+      "organisation" : 0
+    },
+    "negativity" : false,
+    "n_items" : -1
+  },
+  "displayValue" : {
+    "display" : {
+      "names" : false,
+      "places" : false,
+      "money" : false,
+      "time" : false,
+      "quantity" : false,
+      "date" : false,
+      "event" : false,
+      "organisation" : false
+    },
+    "action" : "",
+    "values" : {
+      "names" : 0,
+      "places" : 0,
+      "money" : 0,
+      "time" : 0,
+      "quantity" : 0,
+      "date" : 0,
+      "event" : 0,
+      "organisation" : 0
+    },
+    "negativity" : false,
+    "n_items" : -1
+  },
+  "visualizeData" : {
+    "display" : {
+      "names" : false,
+      "places" : false,
+      "money" : false,
+      "time" : false,
+      "quantity" : false,
+      "date" : false,
+      "event" : false,
+      "organisation" : false
+    },
+    "action" : "",
+    "values" : {
+      "names" : 0,
+      "places" : 0,
+      "money" : 0,
+      "time" : 0,
+      "quantity" : 0,
+      "date" : 0,
+      "event" : 0,
+      "organisation" : 0
+    },
+    "negativity" : false,
+    "n_items" : -1,
+    "graph" : "",
+    "gtype" : ""
+  }
+}

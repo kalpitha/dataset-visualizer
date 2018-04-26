@@ -1,0 +1,208 @@
+show me datapoints that have [entval: entval](names)
+show me datapoint that have [entval: entval](places) 
+display datapoints that have [entval: entval](names)
+display datapoint that have [entval: entval](places)
+show datapoints that have [entval: entval](names)
+show datapoint that have [entval: entval](places)
+give me datapoint that have [entval: entval](places)
+give me datapoint that have [entval: entval](people)
+show datapoint with [entval: entval](places)
+show me datapoints with [entval: entval](places)
+show datapoints that have [entval: entval](places)
+show datapoints that have [entval: entval](people)
+show me datapoints with [entval: entval](people) and [entval: entval](places)
+show me datapoints that have [entval: entval](names) and [entval: entval](places)
+display datapoints that have [entval: entval](names) and [entval: entval](places)
+show datapoints that have [entval: entval](names) and [entval: entval](places)
+give me datapoint that have [entval: entval](places) and [entval: entval](people)
+
+
+show me datapoints that have [entval: entval](organisation)
+display datapoints that have [entval: entval](organisation)
+give me datapoint that have [entval: entval](organisation)
+show datapoints with [entval: entval](organisation)
+show me datapoints with [entval: entval](organisation)
+
+
+
+show me datapoints that have [entval: entval](event)
+display datapoints that have [entval: entval](event)
+give me datapoint that have [entval: entval](event)
+show datapoints with [entval: entval](event)
+show me datapoints with [entval: entval](event)
+
+
+show me datapoints that have [entval: entval](money)
+display datapoints that have [entval: entval](money)
+give me datapoint that have [entval: entval](money)
+show datapoints with [entval: entval](money)
+show me datapoints with [entval: entval](money)
+
+
+
+show me datapoints that have [entval: entval](date)
+display datapoints that have [entval: entval](date)
+give me datapoint that have [entval: entval](date)
+show datapoints with [entval: entval](date)
+show me datapoints with [entval: entval](date)
+
+
+show me datapoints that have [entval: entval](time)
+display datapoints that have [entval: entval](time)
+give me datapoint that have [entval: entval](time)
+show datapoints with [entval: entval](time)
+show me datapoints with [entval: entval](time)
+
+
+show me datapoints that have [entval: entval](quantity)
+display datapoints that have [entval: entval](quantity)
+give me datapoint that have [entval: entval](quantity)
+show datapoints with [entval: entval](quantity)
+show me datapoints with [entval: entval](quantity)
+
+
+show me datapoints that have [entval: entval](quantity), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+show me datapoints that have [entval: entval](quantity), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+show me datapoints that have [entval: entval](quantity) [entval: entval](time) [entval: entval](money) [entval: entval](event) [entval: entval](art)
+
+display datapoints that have [entval: entval](quantity), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+display datapoints that have [entval: entval](quantity), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+display datapoints that have [entval: entval](quantity) [entval: entval](time) [entval: entval](money) [entval: entval](event) [entval: entval](art)
+
+give me datapoints that have [entval: entval](date), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+give me datapoints that have [entval: entval](people), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+give me datapoints that have [entval: entval](place) [entval: entval](time) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+show datapoints that have [entval: entval](quantity), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+show datapoints that have [entval: entval](organisation), [entval: entval](people), [entval: entval](money), [entval: entval](event)
+show datapoints that have [entval: entval](place) [entval: entval](people) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+show me datapoints that have [entval: entval](date), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+show me datapoints that have [entval: entval](people), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+show me datapoints that have [entval: entval](place) [entval: entval](time) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+
+show me all datapoints that have [entval: entval](names)
+show me all datapoint that have [entval: entval](places) 
+display all datapoints that have [entval: entval](names)
+display all datapoint that have [entval: entval](places)
+show all datapoints that have [entval: entval](names)
+show all datapoint that have [entval: entval](places)
+give me all datapoint that have [entval: entval](places)
+give me all datapoint that have [entval: entval](people)
+show all datapoint with [entval: entval](places)
+show me all datapoints with [entval: entval](places)
+show all datapoints that have [entval: entval](places)
+show all datapoints that have [entval: entval](people)
+show me all datapoints with [entval: entval](people) and [entval: entval](places)
+show me all datapoints that have [entval: entval](names) and [entval: entval](places)
+display all datapoints that have [entval: entval](names) and [entval: entval](places)
+show all datapoints that have [entval: entval](names) and [entval: entval](places)
+give me all datapoint that have [entval: entval](places) and [entval: entval](people)
+
+
+show me all datapoints that have [entval: entval](organisation)
+display all datapoints that have [entval: entval](organisation)
+give me all datapoint that have [entval: entval](organisation)
+show all datapoints with [entval: entval](organisation)
+show me all datapoints with [entval: entval](organisation)
+
+
+
+show me all datapoints that have [entval: entval](event)
+display all datapoints that have [entval: entval](event)
+give me all datapoint that have [entval: entval](event)
+show all datapoints with [entval: entval](event)
+show me all datapoints with [entval: entval](event)
+
+
+show me all datapoints that have [entval: entval](money)
+display all datapoints that have [entval: entval](money)
+give me all datapoint that have [entval: entval](money)
+show all datapoints with [entval: entval](money)
+show me all datapoints with [entval: entval](money)
+
+
+
+show me all datapoints that have [entval: entval](date)
+display all datapoints that have [entval: entval](date)
+give me all datapoint that have [entval: entval](date)
+show all datapoints with [entval: entval](date)
+show me all datapoints with [entval: entval](date)
+
+
+show me all datapoints that have [entval: entval](time)
+display all datapoints that have [entval: entval](time)
+give me all datapoint that have [entval: entval](time)
+show all datapoints with [entval: entval](time)
+show me all datapoints with [entval: entval](time)
+
+
+show me all datapoints that have [entval: entval](quantity)
+display all datapoints that have [entval: entval](quantity)
+give me all datapoint that have [entval: entval](quantity)
+show all datapoints with [entval: entval](quantity)
+show me all datapoints with [entval: entval](quantity)
+
+
+show me all datapoints that have [entval: entval](quantity), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+show me all datapoints that have [entval: entval](quantity), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+show me all datapoints that have [entval: entval](quantity) [entval: entval](time) [entval: entval](money) [entval: entval](event) [entval: entval](art)
+
+display all datapoints that have [entval: entval](quantity), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+display all datapoints that have [entval: entval](quantity), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+display all datapoints that have [entval: entval](quantity) [entval: entval](time) [entval: entval](money) [entval: entval](event) [entval: entval](art)
+
+give me all datapoints that have [entval: entval](date), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+give me all datapoints that have [entval: entval](people), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+give me all datapoints that have [entval: entval](place) [entval: entval](time) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+show all datapoints that have [entval: entval](quantity), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+show all datapoints that have [entval: entval](organisation), [entval: entval](people), [entval: entval](money), [entval: entval](event)
+show all datapoints that have [entval: entval](place) [entval: entval](people) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+show me all datapoints that have [entval: entval](date), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+show me all datapoints that have [entval: entval](people), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+show me all datapoints that have [entval: entval](place) [entval: entval](time) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+
+show all datapoints that contain [entval: entval](quantity), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+show all datapoints that contain [entval: entval](organisation), [entval: entval](people), [entval: entval](money), [entval: entval](event)
+show all datapoints that contain [entval: entval](place) [entval: entval](people) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+show me all datapoints that contain [entval: entval](date), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+show me all datapoints that contain [entval: entval](people), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+show me all datapoints that contain [entval: entval](place) [entval: entval](time) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+give me all datapoints that contain [entval: entval](date), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+give me all datapoints that contain [entval: entval](people), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+give me all datapoints that contain [entval: entval](place) [entval: entval](time) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+
+display all datapoints that contain [entval: entval](quantity), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+display all datapoints that contain [entval: entval](quantity), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+display all datapoints that contain [entval: entval](quantity) [entval: entval](time) [entval: entval](money) [entval: entval](event) [entval: entval](art)
+
+
+show all datapoints which contain [entval: entval](quantity), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+show all datapoints which contain [entval: entval](organisation), [entval: entval](people), [entval: entval](money), [entval: entval](event)
+show all datapoints which contain [entval: entval](place) [entval: entval](people) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+show me all datapoints which contain [entval: entval](date), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+show me all datapoints which contain [entval: entval](people), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+show me all datapoints which contain [entval: entval](place) [entval: entval](time) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+give me all datapoints which contain [entval: entval](date), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+give me all datapoints which contain [entval: entval](people), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+give me all datapoints which contain [entval: entval](place) [entval: entval](time) [entval: entval](date) [entval: entval](event) [entval: entval](art)
+
+
+display all datapoints which contain [entval: entval](quantity), [entval: entval](time), [entval: entval](money) and [entval: entval](event)
+display all datapoints which contain [entval: entval](quantity), [entval: entval](time), [entval: entval](money), [entval: entval](event)
+display all datapoints which contain [entval: entval](quantity) [entval: entval](time) [entval: entval](money) [entval: entval](event) [entval: entval](art)
+
+
+
+
+
+
